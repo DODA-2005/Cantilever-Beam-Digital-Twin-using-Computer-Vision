@@ -144,5 +144,3 @@ This project was developed as part of a **Strength of Materials** course to prov
 ## 👤 Authors
 
 - **Pranav Anil**  
-- Team Members: Jairaj Rathore, Manit Gupta, Mannat Modi  
-- Guided by: **Prof. Hemant Kumar**

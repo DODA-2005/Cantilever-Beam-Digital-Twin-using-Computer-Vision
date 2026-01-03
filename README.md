@@ -47,6 +47,15 @@ The system detects a physical cantilever beam marked with a colored strip, track
 
 ---
 
+## 🧰 Hardware Requirements
+
+- Webcam (built-in or external)
+- Physical cantilever beam (thin strip or ruler)
+- Green tape or marker for beam detection
+- Adequate ambient lighting
+
+---
+
 ## 📐 Cantilever Beam Theory (Reference)
 
 <p align="center">

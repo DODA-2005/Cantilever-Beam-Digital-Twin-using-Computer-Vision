@@ -13,7 +13,7 @@
 ## 🎥 Demo
 
 [▶️ Watch Demo Video]
-<video src="images/demo.mp4" controls width="900"></video>
+<video src="https://drive.google.com/file/d/1joSluO1Ue3gHVHiJJiRdhulqxK6pGScP/view?usp=sharing" controls width="900"></video>
 
 
 A **real-time, computer vision–driven digital twin** of a cantilever beam that visualizes load application and bending behavior using only a webcam and hand tracking.

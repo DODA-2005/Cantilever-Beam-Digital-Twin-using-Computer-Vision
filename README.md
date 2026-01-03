@@ -1,5 +1,20 @@
 # Cantilever Beam Digital Twin using Computer Vision
 
+<p align="center">
+  <img src="working.png" width="900">
+</p>
+
+<p align="center">
+  <i>Real-time AR interaction (left) synchronized with a digital twin simulation (right).</i>
+</p>
+
+---
+
+## 🎥 Demo
+
+[▶️ Watch Demo Video](demo.mp4)
+
+
 A **real-time, computer vision–driven digital twin** of a cantilever beam that visualizes load application and bending behavior using only a webcam and hand tracking.
 
 This project was developed as part of a **Strength of Materials (SOM)** application to bridge theoretical beam bending concepts with interactive, visual intuition—**without using physical sensors**.
@@ -16,6 +31,30 @@ This project demonstrates an alternative approach:
 The system detects a physical cantilever beam marked with a colored strip, tracks fingertip interaction as a point load, and renders:
 - an **AR bending overlay** on the real beam, and  
 - a **separate digital twin simulation** that mirrors the same behavior in real time.
+
+---
+
+## 🧱 Physical Setup
+
+<p align="center">
+  <img src="sunboard.png" width="500">
+</p>
+
+<p align="center">
+  <i>Physical cantilever beam marked with a green strip for computer vision–based detection.</i>
+</p>
+
+---
+
+## 📐 Cantilever Beam Theory (Reference)
+
+<p align="center">
+  <img src="twin.png" width="700">
+</p>
+
+<p align="center">
+  <i>Classical cantilever behavior under a point load. Deflection increases quadratically toward the free end.</i>
+</p>
 
 ---
 

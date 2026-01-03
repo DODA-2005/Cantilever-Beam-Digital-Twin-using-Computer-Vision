@@ -1,7 +1,7 @@
 # Cantilever Beam Digital Twin using Computer Vision
 
 <p align="center">
-  <img src="working.png" width="900">
+  <img src="images/working.png" width="900">
 </p>
 
 <p align="center">

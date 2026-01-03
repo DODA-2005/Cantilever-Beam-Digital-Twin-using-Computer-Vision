@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Cantilever Beam Digital Twin Using Computer Vision"
+authors:
+  - family-names: Anil
+    given-names: Pranav
+version: 1.0.0
+date-released: 2026-01-03
+url: https://github.com/DODA-2005/Cantilever-Beam-Digital-Twin-using-Computer-Vision
+license: MIT

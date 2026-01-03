@@ -12,7 +12,7 @@
 
 ## 🎥 Demo
 
-[▶️ Watch Demo Video](demo.mp4)
+[▶️ Watch Demo Video](images/demo.mp4)
 
 
 A **real-time, computer vision–driven digital twin** of a cantilever beam that visualizes load application and bending behavior using only a webcam and hand tracking.
@@ -37,7 +37,7 @@ The system detects a physical cantilever beam marked with a colored strip, track
 ## 🧱 Physical Setup
 
 <p align="center">
-  <img src="sunboard.png" width="500">
+  <img src="images/sunboard.png" width="500">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ The system detects a physical cantilever beam marked with a colored strip, track
 ## 📐 Cantilever Beam Theory (Reference)
 
 <p align="center">
-  <img src="twin.png" width="700">
+  <img src="images/twin.png" width="700">
 </p>
 
 <p align="center">
